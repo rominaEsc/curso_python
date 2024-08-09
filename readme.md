@@ -39,7 +39,7 @@ paradigmas (poo y funcional)
 
 - Ve al navegador y escribe “Python”.
 - Asegúrate de entrar a python.org y haz clic en la sección de descargas.
-![IMAGEN](img/1_pythonweb.PNG) 
+![IMAGEN](img\1_pythonweb.PNG) 
 - Descarga el instalador y ábrelo.
 - Marca la opción “Add Python to PATH” y selecciona “Install Now”.
 ![IMAGEN](img/2_add_python_to_path.PNG) 
