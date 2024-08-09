@@ -39,10 +39,10 @@ paradigmas (poo y funcional)
 
 - Ve al navegador y escribe “Python”.
 - Asegúrate de entrar a python.org y haz clic en la sección de descargas.
-![IMAGEN](img\1_pythonweb.PNG) 
+![IMAGEN](img/1_pythonweb.PNG) 
 - Descarga el instalador y ábrelo.
 - Marca la opción “Add Python to PATH” y selecciona “Install Now”.
-![IMAGEN](img\2_add_python_to_path.PNG) 
+![IMAGEN](img/2_add_python_to_path.PNG) 
 - Una vez instalado, abre la terminal o cmd y escribe “python” para comprobar la instalación.
 
 ¿Cómo instalar Python en Mac?
@@ -65,8 +65,8 @@ Recuerda que Python es un lenguaje interpretado, lo que significa que las instru
 
 **Ver archivos:**
 
-- Función print: [2_1_print.ipynb](files\2_1_print.ipynb)
-- hola Mundo: [2_2_holaMundo.py](files\2_2_holaMundo.py)
+- Función print: [2_1_print.ipynb](files/2_1_print.ipynb)
+- hola Mundo: [2_2_holaMundo.py](file/2_2_holaMundo.py)
 
 ### 3. Conceptos Básicos de Programación
 
